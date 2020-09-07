@@ -10,7 +10,8 @@
     "logo": "https://raw.githubusercontent.com/eosasia/eos-dapps/master/<CHAIN_FOLDER_NAME>/logos/<LOGO_FILE_NAME>",
     "logo_lg": "https://raw.githubusercontent.com/eosasia/eos-dapps/master/<CHAIN_FOLDER_NAME>/logos/<LARGE_LOGO_FILE_NAME>",
     "symbol": "<TOKEN_SYMBOL>",
-    "account": "<CONTRACT_ACCOUNT>"
+    "account": "<CONTRACT_ACCOUNT>",
+    "precision": 4
   }
   ```
   Replace these capitalized part(includes `<` and `>`) to your own info.
@@ -31,6 +32,7 @@
     "logo_lg": "https://raw.githubusercontent.com/eosasia/eos-dapps/master/<相应链的文件夹名>/logos/<大号图标文件名>",
     "symbol": "<代币符号>",
     "account": "<合约账号名>"
+    "precision": 4
   }
   ```
   替换掉尖括号的数据（包括尖括号）。
