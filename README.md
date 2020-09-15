@@ -1,4 +1,6 @@
 ## How to add a new token
+
+TESTING 
 1. Move into the chain folder.
 2. Add logo and large logo to `logos` sub folder.
 3. Append token data in `tokens.json`. The whole JSON file is an array.
@@ -36,4 +38,3 @@
   }
   ```
   替换掉尖括号的数据（包括尖括号）。
-
