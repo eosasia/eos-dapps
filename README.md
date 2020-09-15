@@ -1,4 +1,5 @@
 ## How to add a new token
+testing
 1. Move into the chain folder.
 2. Add logo and large logo to `logos` sub folder.
 3. Append token data in `tokens.json`. The whole JSON file is an array.
